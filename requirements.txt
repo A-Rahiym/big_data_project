@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pyarrow
+boto3
+pyspark>=3.4.0
+kaggle
